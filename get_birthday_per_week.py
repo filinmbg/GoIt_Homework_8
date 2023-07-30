@@ -2,8 +2,8 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 
 users = [
-    {"name": "Bill", "birthday": datetime(year=1988, month=8, day=2)},
     {"name": "John", "birthday": datetime(year=1978, month=7, day=30)},
+    {"name": "Bill", "birthday": datetime(year=1988, month=8, day=2)},
     {"name": "Jane", "birthday": datetime(year=1992, month=8, day=28)},
     {"name": "Adam", "birthday": datetime(year=2002, month=7, day=31)},
     {"name": "Marius", "birthday": datetime(year=2003, month=8, day=5)},
